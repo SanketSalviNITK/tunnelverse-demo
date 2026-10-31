@@ -1,0 +1,1 @@
+function e(){throw Object.assign(/* @__PURE__ */ Error(`Uploading 3D models needs the full platform; this demo runs in your browser.`),{statusCode:400})}const t=e,n=e;export{n as inspectModel,t as optimizeModel};

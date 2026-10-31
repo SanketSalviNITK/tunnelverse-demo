@@ -1,0 +1,1 @@
+var e={ready:{chip:`bg-ok/15 text-ok`,bar:`bg-ok`},in_progress:{chip:`bg-info/15 text-info`,bar:`bg-info`},not_started:{chip:`bg-raised text-muted`,bar:`bg-line-strong`},overdue:{chip:`bg-bad/15 text-bad`,bar:`bg-bad`},none:{chip:`bg-raised text-muted`,bar:`bg-line`}};export{e as t};

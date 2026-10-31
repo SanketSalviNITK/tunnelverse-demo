@@ -1,0 +1,1 @@
+const e=await(await fetch(`/tunnelverse-demo/assets/query_compiler_fast_bg-C1WMQake.wasm`)).arrayBuffer();var t=await WebAssembly.compile(e);export{t as default};
